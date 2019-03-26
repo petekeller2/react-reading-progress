@@ -1,10 +1,10 @@
-# react-reading-progress
+# react-reading-progress-plus
 
-[![npm version](https://img.shields.io/npm/v/react-reading-progress.svg?style=flat-square)](https://www.npmjs.com/package/react-reading-progress)
-[![travis](http://img.shields.io/travis/makotot/react-reading-progress.svg?style=flat-square)](https://travis-ci.org/makotot/react-reading-progress)
-[![dependencies](http://img.shields.io/david/makotot/react-reading-progress.svg?style=flat-square)](https://github.com/makotot/react-reading-progress)
-[![DevDependencies](http://img.shields.io/david/dev/makotot/react-reading-progress.svg?style=flat-square)](https://github.com/makotot/react-reading-progress)
-[![License](http://img.shields.io/npm/l/react-reading-progress.svg?style=flat-square)](https://github.com/makotot/react-reading-progress)
+[![npm version](https://img.shields.io/npm/v/react-reading-progress-plus.svg?style=flat-square)](https://www.npmjs.com/package/react-reading-progress-plus)
+[![travis](http://img.shields.io/travis/petekeller2/react-reading-progress.svg?style=flat-square)](https://travis-ci.org/petekeller2/react-reading-progress)
+[![dependencies](http://img.shields.io/david/petekeller2/react-reading-progress.svg?style=flat-square)](https://github.com/petekeller2/react-reading-progress)
+[![DevDependencies](http://img.shields.io/david/dev/petekeller2/react-reading-progress.svg?style=flat-square)](https://github.com/petekeller2/react-reading-progress)
+[![License](http://img.shields.io/npm/l/react-reading-progress.svg?style=flat-square)](https://github.com/petekeller2/react-reading-progress)
 
 > Reading progress bar component
 
@@ -13,13 +13,13 @@
 ## Install
 
 ```sh
-$ npm i react-reading-progress
+$ npm i react-reading-progress-plus
 ```
 
 ## Usage
 
 ```js
-import ReadingProgress from 'react-reading-progress'
+import ReadingProgress from 'react-reading-progress-plus'
 
 ...
 
