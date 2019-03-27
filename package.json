@@ -1,6 +1,6 @@
 {
   "name": "react-reading-progress-plus",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "main": "./lib/index.js",
   "author": "makotot",
   "description": "react reading progress bar component",
